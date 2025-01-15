@@ -47,3 +47,5 @@ document.addEventListener("DOMContentLoaded", function () {
 
     document.getElementById("eventGallery").appendChild(eventGallery);
 });
+
+/*Test commit */
