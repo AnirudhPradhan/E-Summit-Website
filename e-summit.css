@@ -1815,6 +1815,7 @@ ul{
         align-items: center;
         gap: 0.5vw; /* Adjust the gap as needed */
         width: 100%;
+        text-align: center;
     }
 
     .event-content h2 {
