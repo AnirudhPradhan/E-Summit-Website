@@ -1760,6 +1760,7 @@ ul{
     text-transform: uppercase;
     justify-content: center;
     align-items: center;
+    text-align: center;
 }
 
 .event-content h2 {
